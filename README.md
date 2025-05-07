@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Software Devloper<br>- 🌱 I’m currently learning React and React Native<br>- 💼 I'm open for all projects .<br>- ⚡ Fun fact: I like to share my knowledge and learn something new every day.
+🔭 I’m Software Developer<br>- 🌱 CEO Black Born Community<br>- 💼 I'm open for all projects .<br>- ⚡ Fun fact: I like to share my knowledge and learn something new every day.
 
 
 ## 🌐 Socials:
